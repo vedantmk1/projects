@@ -62,7 +62,7 @@ Smart Excel assistant for automated data analysis and visualization.
 Link : `/excelsense`
 
 ###  Smart Transport Management System
-Smart Transport Management System designed to optimize vehicle scheduling, route planning, and transportation operations.
+Smart Transport Management System designed to optimize vehicle scheduling, route planning, and transportation operations.<br>
 Link : [`/Smart Transport Management System`](vedantmk1/Smart-Transport-Management-System)
 
 ##  Skills Demonstrated
