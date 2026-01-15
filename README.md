@@ -59,7 +59,7 @@ Link : [`/sylvah-group`](https://sylvahgroup.com/)
 
 ###  ExcelSense
 Smart Excel assistant for automated data analysis and visualization.  
-Link : `/excelsense`
+Link : [`/excelsense`](https://github.com/vedantmk1/ExcelSense.git)
 
 ###  Smart Transport Management System
 Smart Transport Management System designed to optimize vehicle scheduling, route planning, and transportation operations.<br>
