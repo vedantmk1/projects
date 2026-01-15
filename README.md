@@ -6,17 +6,17 @@ This repository contains a collection of my academic and real-world projects dev
 
 ###  CyberSafe
 Gamified cybersecurity learning platform with interactive XSS and RCE simulations.  
-📂 Folder: `/cybersafe`
+Link : [`/cybersafe`](https://vedantmk1.github.io/cybersafe/)
 
 ###  Sylvah Group Website
 Live real estate website with responsive UI and visit scheduling features.  
-📂 Folder: `/sylvah-group`
+Link : [`/sylvah-group`](https://sylvahgroup.com/)
 
 ###  ExcelSense
 Smart Excel assistant for automated data analysis and visualization.  
-📂 Folder: `/excelsense`
+Link : `/excelsense`
 
-## 🛠️ Skills Demonstrated
+##  Skills Demonstrated
 - Cybersecurity fundamentals & tools
 - Web Development (HTML, CSS, JS, PHP)
 - Python & Flask
