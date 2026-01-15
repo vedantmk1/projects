@@ -40,7 +40,7 @@ Aspiring AI-Driven Web Developer & Cybersecurity Learner | Information Science S
 ### Cybersecurity Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+  
 </p>
 
 # Projects Portfolio 
