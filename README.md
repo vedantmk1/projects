@@ -63,7 +63,7 @@ Link : `/excelsense`
 
 ###  Smart Transport Management System
 Smart Transport Management System designed to optimize vehicle scheduling, route planning, and transportation operations.
-Link : [`/Smart Transport Management System`]()
+Link : [`/Smart Transport Management System`](vedantmk1/Smart-Transport-Management-System)
 
 ##  Skills Demonstrated
 - Cybersecurity fundamentals & tools
