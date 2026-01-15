@@ -1,4 +1,4 @@
-## Hello, Vedant Kalkundri here
+# Hello, Vedant Kalkundri here
 Aspiring AI-Driven Web Developer & Cybersecurity Learner | Information Science Student at GIT | Passionate About Tech, Events & Skills Building. 
 
 
