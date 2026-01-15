@@ -1,3 +1,7 @@
+## Hey, I am Vedant Kalkundri 
+Aspiring AI-Driven Web Developer & Cybersecurity Learner | Information Science Student at GIT | Passionate About Tech, Events & Skills Building. 
+
+
 ## Languages & Technologies
 
 ### Programming Languages
