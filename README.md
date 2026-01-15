@@ -51,7 +51,7 @@ This repository contains a collection of my academic and real-world projects dev
 
 ###  CyberSafe
 Gamified cybersecurity learning platform with interactive XSS and RCE simulations.  
-Link : [`/cybersafe`](https://vedantmk1.github.io/cybersafe/)
+Link : [`/cyberLab`](https://vedantmk1.github.io/cybersafe/)
 
 ###  Sylvah Group Website
 Live real estate website with responsive UI and visit scheduling features.  
